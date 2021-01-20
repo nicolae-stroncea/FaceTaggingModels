@@ -1,4 +1,4 @@
-from .core import Mixin
+from .Mixin import Mixin
 from .base import db
 
 

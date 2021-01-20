@@ -1,4 +1,4 @@
-from .core import Mixin
+from .Mixin import Mixin
 from .base import db
 
 # Note that we use sqlite for our tests, so you can't use Postgres Arrays

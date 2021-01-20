@@ -1,5 +1,5 @@
-from core import Mixin
-from base import db
+from .core import Mixin
+from .base import db
 
 
 class Face(Mixin, db.Model):
